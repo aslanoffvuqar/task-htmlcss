@@ -1,0 +1,124 @@
+@media only screen and (max-width:500px) {
+    #header {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .bar {
+        display: none;
+    }
+
+    .barr {
+        display: flex;
+        padding: 8px 16px;
+        align-items: center;
+        gap: 8px;
+        border-radius: 40px;
+        border: 1px solid gray;
+        width: 100%;
+        margin: auto;
+    }
+
+    #mnubar {
+        display: flex;
+        justify-content: space-between;
+        margin: 10px;
+    }
+
+    #icon {
+        margin: 0px 0px 0px auto;
+    }
+
+    #hdrimg {
+        display: none;
+    }
+
+    #mobim {
+        display: flex;
+        background-image: url(/imgs/table-with-lunch-things-lunchbox-cup-tableware-greenery-top-view\ 1\ \(1\).png);
+    }
+
+    #colum {
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        width: 100%;
+        padding: 50px 3px;
+        align-items: center;
+        gap: 20px;
+
+    }
+
+    #imggh {
+        display: none;
+    }
+
+    #colum div a {
+        background-color: #333333;
+        position: absolute;
+        top: 85%;
+        margin: 0px 5px;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+        align-items: center;
+        height: 20px;
+        width: 80px;
+    }
+
+    #imglar {
+        display: none;
+    }
+
+    .frisim {
+        display: flex;
+        justify-content: center;
+        margin: 10px 0px 20px 0px;
+        gap: 40px;
+
+    }
+
+    .scndimg {
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        margin: 20px 0px;
+    }
+
+    #buyimg {
+        display: none;
+    }
+
+    #buyyimgg {
+        display: flow-root;
+        background-color: #FFEFE5;
+
+
+    }
+
+    .taxtm {
+        display: none;
+    }
+
+    .taxtmm {
+        text-align: center;
+        display: block;
+    }
+
+    .imgssa {
+        display: none;
+    }
+
+    .imgss {
+        margin: 0px 0px 0px 20px;
+    }
+
+    .imgss img {
+        width: 150px;
+        height: 150px;
+    }
+
+    #csvg p {
+        font-size: 23px;
+    }
+
+}
